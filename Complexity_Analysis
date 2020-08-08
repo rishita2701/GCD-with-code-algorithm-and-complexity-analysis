@@ -1,0 +1,12 @@
+COMPLEXITY ANALYSIS FOR BRUTE FORCE APPROACH:
+
+i.	Best Case: Ω (n)
+ii.	Average Case: θ (n)
+iii.	Worst Case: O (n)
+
+
+COMPLEXITY ANALYSIS FOR EUCLIDEAN APPROACH:
+
+i.	Best Case: Ω (1)
+ii.	Average Case: θ (log n)
+iii.	Worst Case: O (log n)
